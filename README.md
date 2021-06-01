@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisfeevral
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps, WEB, Golang
 - 🌱 I’m currently learning EPAM DevOps training course
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me dlyutichh@gmail.com.
